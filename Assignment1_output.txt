@@ -1,0 +1,22 @@
+enter your first no:1
+enter your second no:1
+enter your third no:1
+Average of the three no. is 1.0
+enter your gross income:11000000000000000
+enter the no. of dependent90
+Taxable income is 10999999999720000
+person's income tax is 2199999999944000.0
+enter your SID21108027
+enter your Namelakshay
+enter your genderm
+enter your Course Namepython
+enter your CGPA1
+[21108027, 'lakshay', 'm', 'python', 1.0]
+enter your marks99
+enter your marks1
+enter your marks98
+enter your marks2
+enter your marks69
+[1, 2, 69, 98, 99]
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Yellow']
