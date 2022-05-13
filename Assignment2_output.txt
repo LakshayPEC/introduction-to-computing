@@ -1,0 +1,31 @@
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive 
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+Enter your nameLakshay
+Enter your SID21108027
+Enter you DepartmentMetta.
+Enter you cg9.9
+Hey, Lakshay Here! 
+My SID is 21108027 
+I am from Metta. and my CGPA is 9.900000
+8
+58
+50
+224 
+ 40
+14 
+ 0
+Enter your stringmy name is Lakshay
+Yes
+Enter length 1 =3
+Enter length 2 =5
+Enter length 3 =6
+Yes
+Enter your first number =15
+Enter your second number =8
+3
+0b111
+
