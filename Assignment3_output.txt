@@ -1,0 +1,33 @@
+Enter the number: 60
+111100.0
+Implementing a simple calculator program
+Enter a mathematical expression:16*(20+7)-(15+25)
+Result : 392
+a) 35
+b) Enter the value : 3
+3.0
+c) Enter the radius : 7
+615.7521601035994
+d) Enter the value: 2
+Enter the value of a in degrees: 45
+Enter the value of b in degrees: 45
+1.4142135623730951
+Enter the value of y2 : 9
+Enter the value of y1 : 6
+Enter the value of x2 : 6
+Enter the value of x1 : 3
+1.0
+0 1 2 3 4 
+
+3 4 5 6 7 8 9 
+
+4 7 10 
+
+15 13 11 9 7 
+
+
+
+Enter the number of carbon : 2
+Enter the number of oxygen : 6
+Enter the number of hydrogen : 1
+Molecular weight is 121.02574
