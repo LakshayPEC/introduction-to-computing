@@ -1,0 +1,106 @@
+Enter the string:Enter the string
+The reversed string is: gnirts eht retnE
+Enter the lower range:5
+Enter the upper range:66
+Enter the number:9
+9 is divisble by 9
+18 is divisble by 9
+27 is divisble by 9
+36 is divisble by 9
+45 is divisble by 9
+54 is divisble by 9
+63 is divisble by 9
+Enter the length of first side: 4
+Enter  the length of second side: 5
+Enter  the length of third side: 7
+The area of the triangle is 9.80
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+Enter the number of rows: 5
+
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+Enter the lower range value: 1
+Enter the upper range value: 100
+The prime numbers in the range are: 
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97
+
+
+77
+154
+231
+308
+385
+462
+Enter The Number: 10
+Enter The Number: -20
+Enter The Number: 10
+Enter The Number: 6564
+Enter The Number: 11
+Enter The Number: 3
+Enter The Number: -65
+Enter The Number: -99
+Enter The Number: 100
+Enter The Number: 77
+Positive numbers in [10, -20, 10, 6564, 11, 3, -65, -99, 100, 77] are: 
+10 10 6564 11 3 100 77 
+Negative numbers in [10, -20, 10, 6564, 11, 3, -65, -99, 100, 77] are: 
+-20 -65 -99 
+odd numbers in [10, -20, 10, 6564, 11, 3, -65, -99, 100, 77] are: 
+11 3 -65 -99 77 
+Even numbers in [10, -20, 10, 6564, 11, 3, -65, -99, 100, 77] are: 
+10 -20 10 6564 100 
+ 10  occured  2  times
+
+ -20  occured  1  times
+
+ 6564  occured  1  times
+
+ 11  occured  1  times
+
+ 3  occured  1  times
+
+ -65  occured  1  times
+
+ -99  occured  1  times
+
+ 100  occured  1  times
+
+ 77  occured  1  times
+Enter the list of words seperated by comma(,):12,hello,33,12,hello,hello,world,python
+{'12': 2, 'hello': 3, '33': 1, 'world': 1, 'python': 1}
