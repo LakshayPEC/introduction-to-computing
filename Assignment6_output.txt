@@ -1,0 +1,31 @@
+Enter A Number: 80
+It is not a Perfect Number
+Enter a String: i will code ere edoc lliw i
+The Word Is A Palindrome
+Enter number of rows: 5
+                     1 
+                  1      1 
+               1      2      1 
+            1      3      3      1 
+         1      4      6      4      1 
+Enter a string to check for pangram : The quick brown fox jumps over the lazy dog
+It is a pangram string
+enter the string: green-red-yellow-black-white
+black-green-red-white-yellow
+Please enter the student id: 21108027
+Please enter the student name: Lakshay Sharma
+Please enter the student class: 2
+The student id is 21108027
+The student name is  Lakshay Sharma
+The student class is  2
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+[[-10, 2, 8], [-7, -3, 10]]
+enter : {{{
+{{{ - is Unbalanced
